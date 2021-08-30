@@ -8,8 +8,8 @@ To use the wallpaper follow instructions on [Vlad Zahorodnii's "plasma5-wallpape
 
 Wallpaper based on [Louis Coyle's dynamic wallpaper](https://dynamicwallpaper.club/wallpaper/jculsb683ok) for MacOS.
 
-Original Size: **1920x1080**.
-An upscaled 4k version is also available.
+Original Size: **1920x1080**.  
+An upscaled 4k version is also available (thx @chase9@github.com).
 
 Packaged for [Vlad Zahorodnii's "plasma5-wallpapers-dynamic"](https://github.com/zzag/plasma5-wallpapers-dynamic) plugin by Hugo Trassoudaine.
 
